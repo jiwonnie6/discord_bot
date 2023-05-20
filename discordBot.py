@@ -5,8 +5,7 @@ import yt_dlp as youtube_dl
 from dataclasses import dataclass
 
 
-# discord bot
-
+# discord bo
 CHANNEL_ID = 1098504441101029406
 MAX_STUDY_TIME = 45
 
